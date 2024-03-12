@@ -1,5 +1,5 @@
 """
-Script Name: stake_reciever.py
+Script Name: rp2040_reciever.py
 Author: Lydia Unterreiner
 Date: March 12, 2024
 
